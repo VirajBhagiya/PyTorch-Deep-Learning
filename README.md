@@ -4,11 +4,11 @@ Welcome to my PyTorch Deep Learning repository! This project is aimed at providi
 
 ## Contents 📂
 
-- **PyTorch_Fundamentals**: Goes into the basics of PyTorch, including tensors and autograd. 🔢
-- **PyTorch_Workflow**: Explore best practices for developing, training, and deploying PyTorch models efficiently. 💼
-- **PyTorch_Classification**: Learn how to build and train models for classification tasks. 🏷️
-- **PyTorch_Computer_Vision**: Implement CNNs for image recognition and dives into computer vision applications. 🖼️
-- **PyTorch_Custom_Datasets**: Master the art of creating, using, and managing custom datasets in PyTorch. 📊
+- [**PyTorch_Fundamentals**](PyTorch_Fundamentals.ipynb): Goes into the basics of PyTorch, including tensors and autograd. 🔢
+- [**PyTorch_Workflow**](PyTorch_Workflow.ipynb): Explore best practices for developing, training, and deploying PyTorch models efficiently. 💼
+- [**PyTorch_Classification**](PyTorch_Classification.ipynb): Learn how to build and train models for classification tasks. 🏷️
+- [**PyTorch_Computer_Vision**](PyTorch_Computer_Vision.ipynb): Implement CNNs for image recognition and dives into computer vision applications. 🖼️
+- [**PyTorch_Custom_Datasets**](PyTorch_Custom_Datasets.ipynb): Master the art of creating, using, and managing custom datasets in PyTorch. 📊
 
 
 Each folder contains a Jupyter notebook that goes into the specifics of each topic, accompanied by necessary data and models.
